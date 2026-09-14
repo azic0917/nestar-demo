@@ -12,7 +12,7 @@ const HeaderFilter = () => {
             <ExpandMoreIcon />
           </Box>
           <Box className={"box"}>
-            <span>Property Type</span>
+            <span>Property type</span>
             <ExpandMoreIcon />
           </Box>
           <Box className={"box"}>
@@ -26,7 +26,7 @@ const HeaderFilter = () => {
             <span>Advanced</span>
           </Box>
           <Box className={"search-btn"}>
-            <img src="/img/icons/search_white.svg" alt="" />
+            <img src="/img/icons/search_white.svg" />
           </Box>
         </Stack>
       </Stack>
